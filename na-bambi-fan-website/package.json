@@ -1,0 +1,15 @@
+{
+  "name": "na-bambi-fan-website",
+  "version": "1.0.0",
+  "description": "A fan website dedicated to Na Bambi de Cuppachino da Turd, showcasing his history and achievements.",
+  "main": "src/index.html",
+  "scripts": {
+    "start": "live-server src"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
